@@ -9,7 +9,7 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #4071FF;
+    --first-color: /*#4071FF*/ #9370DB;
     --white-color: #FAFAFF;
     --dark-color: #2A3B47;
     --text-color: #697477;
